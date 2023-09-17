@@ -1,0 +1,82 @@
+#{
+margin: 0;
+padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.metais_alcalinos {
+  padding: 10px;
+  text-align: center;
+  background-color: red;
+}
+
+.metais_alcalinoterrosos {
+  padding: 10px;
+  text-align: center;
+  background-color: olive;
+}
+
+.metais_transicao {
+  padding: 10px;
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+.metais_pos-transicao {
+  padding: 10px;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.semimetais {
+  padding: 10px;
+  text-align: center;
+  background-color: yellow;
+}
+
+.nao-metais_poliatomicos {
+  padding: 10px;
+  text-align: center;
+  background-color: green;
+}
+
+.nao-metais_diatomicos {
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+}
+
+.gases_nobres {
+  padding: 10px;
+  text-align: center;
+  background-color: magenta;
+}
+
+.propr_desconhecidas {
+  padding: 10px;
+  text-align: center;
+  background-color: grey;
+}
+
+.lantanideos {
+  padding: 10px;
+  text-align: center;
+  background-color: blue;
+  font-size: small;
+}
+
+.actinideos {
+  padding: 10px;
+  text-align: center;
+  background-color: aqua;
+  font-size: small;
+}
